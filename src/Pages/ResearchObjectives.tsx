@@ -12,10 +12,8 @@ function ResearchObjectives() {
                             <div className="circle font-weight-bold">1</div>
                         </div>
                         <div className="col-6">
-                            <h5>What are the current challenges faced by students</h5>
-                            <p style={{ textAlign: 'justify' }}>Natural language processing algorithms are required to understand and interpret the meaning of spoken
-                                phrases and sentences.Incorporating Sinhala voice recognition enhances the system's usability for
-                                Sinhala-speaking students.</p>
+                            <h5> Disease Identification and Recommended Doctor Component</h5>
+                            <p style={{ textAlign: 'justify' }}>Introducing a mobile application that facilitates Identifying ,The disease according to the voice input , Recommended Docters suggestions and Knowledgebase Update,</p>
                         </div>
                     </div>
 
@@ -33,10 +31,8 @@ function ResearchObjectives() {
 
                     <div className="row align-items-center justify-content-end  d-flex">
                         <div className="col-6 text-right">
-                            <h5>How can address these challenges</h5>
-                            <p style={{ textAlign: 'justify' }}>The purpose of this component is to design interfaces that are accessible for partially visually impaired students.
-                                It aims to provide different color options that are easier to distinguish for those with partial visual
-                                impairments. </p>
+                            <h5> Ayurvedic Plant Identification Component</h5>
+                            <p style={{ textAlign: 'justify' }}>The purpose of this component is to design interfaces that are accessible for Plant Images  and Real Time Identification, Highlighting the Plant & Keeps the Geo-Location, </p>
                         </div>
                         <div className="col-2 text-center full d-inline-flex justify-content-center align-items-center">
                             <div className="circle font-weight-bold">2</div>
@@ -60,10 +56,8 @@ function ResearchObjectives() {
                             <div className="circle font-weight-bold">3</div>
                         </div>
                         <div className="col-6">
-                            <h5>How to make the easily accessible for the users?</h5>
-                            <p style={{ textAlign: 'justify' }}>Biometric authentication technologies provide a secure and accessible method of user authentication.
-                                This function aims to implement biometric authentication technologies in a way that accommodates visually
-                                impaired students.</p>
+                            <h5>Handwritten Prescription Identification and Reading</h5>
+                            <p style={{ textAlign: 'justify' }}>The purpose of this component is Provide a more reliable Userfriendly digital Platform for Easy understanding, reading, listening and downloading of prescriptions handwritten by native physicians,</p>
                         </div>
                     </div>
 
@@ -81,9 +75,8 @@ function ResearchObjectives() {
 
                     <div className="row align-items-center justify-content-end  d-flex">
                         <div className="col-6 text-right">
-                            <h5>How can a recommendation and suggestions system</h5>
-                            <p style={{ textAlign: 'justify' }}>Finding the right audio book can be difficult for students who are visually impaired. A recommendation system
-                                can help students discover new audio books aligned with their interests and learning goals.
+                            <h5>Hela Nila Wedakama</h5>
+                            <p style={{ textAlign: 'justify' }}>This Component Purpose is Display Nila points using augmented reality and suggest Medicine Patterns.
                             </p>
                         </div>
                         <div className="col-2 text-center full d-inline-flex justify-content-center align-items-center">

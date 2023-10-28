@@ -9,7 +9,7 @@ function ResearchGap() {
                 <div className="work">
                     <i className="fas fa-search"></i>
                     <p className="work-heading">Identification & Classification</p>
-                    <p className="work-text">In the process of identifying and classifying research gaps in the field of accessible audio book systems for visually impaired students, several key areas emerged that warrant further investigation and exploration.</p>
+                    <p className="work-text">In the process of identifying and classifying research gaps in the field of Traditional Medicine systems for patients and native Physicines, several key areas emerged that warrant further investigation and exploration.</p>
                 </div>
                 <div className="work">
                     <i className="fas fa-chart-line"></i>
@@ -19,7 +19,7 @@ function ResearchGap() {
                 <div className="work">
                     <i className="fas fa-comments"></i>
                     <p className="work-heading">Information Sharing</p>
-                    <p className="work-text">nformation sharing refers to the process of distributing, disseminating, or exchanging information among individuals, groups, organizations, or systems. It plays a crucial role in various aspects of modern society.</p>
+                    <p className="work-text">Information sharing refers to the process of distributing, disseminating, or exchanging information among individuals, groups, organizations, or systems. It plays a crucial role in various aspects of modern society.</p>
                 </div>
             </div>
         </section>

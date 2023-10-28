@@ -20,7 +20,7 @@ function MeetOurTeam() {
         {
             name: 'kumara V.G.A.P',
             position: 'Group Leader',
-            image: 'https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/292270448_104734562306183_2414790536935478890_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGu7yeTe0yWHAG1xOhqTxjWvOC0WnvEceO84LRae8Rx40TpUHX_AGtLk8-dE3tkAVHiJFH6FODCdBAAyMZgyjYD&_nc_ohc=HPK4_dP-LlQAX86bGL5&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfDc-zC8OjFCJ6Pgst5MjWOmBIP6MmStawGP5JasqCiM4A&oe=6540C454',
+            image: 'https://github.com/SachiniRasanga/RP_Project_mobile_app/blob/master/ashan.png?raw=true',
             department: 'Computer Science & Software Engineering'
         },
         {

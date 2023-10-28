@@ -12,7 +12,7 @@ const Footer = () => {
                             <div className="footer-text pull-left">
                                 <div className="d-flex">
                                     <h2 style={{ color: "#8ca3ba" }}> <img style={{ width: "40px", height: "40px", marginRight: "10px" }}
-                                        src="https://t4.ftcdn.net/jpg/03/11/53/77/360_F_311537787_V5pD8sE52ZSTb5Kj3BOKevntFUaZv4AG.jpg" />
+                                        src="https://github.com/SachiniRasanga/RP_Project_mobile_app/blob/master/get.png?raw=true" />
                                         AYUSHA</h2>
                                 </div>
                                 <p className="card-text">

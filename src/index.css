@@ -119,7 +119,7 @@
 .achievements .work i {
   width: fit-content;
   font-size: 50px;
-  color: #d16929;
+  color: #44a855;
   padding: 12px;
 }
 
@@ -424,7 +424,7 @@ button.btn.btn-link i {
 }
 
 .meetteam .carddowndolad:hover .docicon {
-  color: orange;
+  color: rgb(120, 214, 109);
   transition: 0.3s;
 }
 
